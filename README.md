@@ -19,4 +19,4 @@ Funcionalidades:
 Login de usuários.
 Listagem de recursos com base no tipo de usuário.
 Proteção de rotas utilizando JWT.
-Considerações Finais: Este projeto pode ser expandido com mais funcionalidades, como a gestão de inventário e uma dashboard visual.
+
